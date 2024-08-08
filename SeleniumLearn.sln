@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumLearn", "SeleniumLearn.csproj", "{0BDEB683-4BBD-45D2-B121-FA8BF2D7201F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumLearn", "SeleniumLearn.csproj", "{0BDEB683-4BBD-45D2-B121-FA8BF2D7201F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumUsage", "..\SeleniumUsage\SeleniumUsage.csproj", "{B216BAE4-BC25-425D-BD88-5C8B31772F32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0BDEB683-4BBD-45D2-B121-FA8BF2D7201F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BDEB683-4BBD-45D2-B121-FA8BF2D7201F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BDEB683-4BBD-45D2-B121-FA8BF2D7201F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B216BAE4-BC25-425D-BD88-5C8B31772F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B216BAE4-BC25-425D-BD88-5C8B31772F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B216BAE4-BC25-425D-BD88-5C8B31772F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B216BAE4-BC25-425D-BD88-5C8B31772F32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

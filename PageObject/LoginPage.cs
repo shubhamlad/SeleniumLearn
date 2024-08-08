@@ -24,8 +24,8 @@ namespace SeleniumLearn.PageObject
         }
         public void Login(string username, string password)
         {
-            TxtUsername.EnterText("admin");
-            TxtPassword.EnterText("password");
+            TxtUsername.EnterText(username);
+            TxtPassword.EnterText(password);
             BtnLogin.SubmitElement();
         }
 
